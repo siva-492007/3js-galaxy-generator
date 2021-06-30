@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/3js-galaxy-generation/static/css/main.9c650110.chunk.css",
-    "main.js": "/3js-galaxy-generation/static/js/main.3fab5df8.chunk.js",
-    "main.js.map": "/3js-galaxy-generation/static/js/main.3fab5df8.chunk.js.map",
-    "runtime-main.js": "/3js-galaxy-generation/static/js/runtime-main.14fa0a9b.js",
-    "runtime-main.js.map": "/3js-galaxy-generation/static/js/runtime-main.14fa0a9b.js.map",
-    "static/js/2.1cba198a.chunk.js": "/3js-galaxy-generation/static/js/2.1cba198a.chunk.js",
-    "static/js/2.1cba198a.chunk.js.map": "/3js-galaxy-generation/static/js/2.1cba198a.chunk.js.map",
-    "static/js/3.48c4aaf7.chunk.js": "/3js-galaxy-generation/static/js/3.48c4aaf7.chunk.js",
-    "static/js/3.48c4aaf7.chunk.js.map": "/3js-galaxy-generation/static/js/3.48c4aaf7.chunk.js.map",
-    "index.html": "/3js-galaxy-generation/index.html",
-    "static/css/main.9c650110.chunk.css.map": "/3js-galaxy-generation/static/css/main.9c650110.chunk.css.map",
-    "static/js/2.1cba198a.chunk.js.LICENSE.txt": "/3js-galaxy-generation/static/js/2.1cba198a.chunk.js.LICENSE.txt"
+    "main.css": "/3js-galaxy-generator/static/css/main.9c650110.chunk.css",
+    "main.js": "/3js-galaxy-generator/static/js/main.3fab5df8.chunk.js",
+    "main.js.map": "/3js-galaxy-generator/static/js/main.3fab5df8.chunk.js.map",
+    "runtime-main.js": "/3js-galaxy-generator/static/js/runtime-main.13477dde.js",
+    "runtime-main.js.map": "/3js-galaxy-generator/static/js/runtime-main.13477dde.js.map",
+    "static/js/2.1cba198a.chunk.js": "/3js-galaxy-generator/static/js/2.1cba198a.chunk.js",
+    "static/js/2.1cba198a.chunk.js.map": "/3js-galaxy-generator/static/js/2.1cba198a.chunk.js.map",
+    "static/js/3.48c4aaf7.chunk.js": "/3js-galaxy-generator/static/js/3.48c4aaf7.chunk.js",
+    "static/js/3.48c4aaf7.chunk.js.map": "/3js-galaxy-generator/static/js/3.48c4aaf7.chunk.js.map",
+    "index.html": "/3js-galaxy-generator/index.html",
+    "static/css/main.9c650110.chunk.css.map": "/3js-galaxy-generator/static/css/main.9c650110.chunk.css.map",
+    "static/js/2.1cba198a.chunk.js.LICENSE.txt": "/3js-galaxy-generator/static/js/2.1cba198a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14fa0a9b.js",
+    "static/js/runtime-main.13477dde.js",
     "static/js/2.1cba198a.chunk.js",
     "static/css/main.9c650110.chunk.css",
     "static/js/main.3fab5df8.chunk.js"
