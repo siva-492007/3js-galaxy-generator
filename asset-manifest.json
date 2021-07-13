@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/3js-galaxy-generator/static/css/main.9c650110.chunk.css",
-    "main.js": "/3js-galaxy-generator/static/js/main.3fab5df8.chunk.js",
-    "main.js.map": "/3js-galaxy-generator/static/js/main.3fab5df8.chunk.js.map",
+    "main.js": "/3js-galaxy-generator/static/js/main.df23b1e9.chunk.js",
+    "main.js.map": "/3js-galaxy-generator/static/js/main.df23b1e9.chunk.js.map",
     "runtime-main.js": "/3js-galaxy-generator/static/js/runtime-main.13477dde.js",
     "runtime-main.js.map": "/3js-galaxy-generator/static/js/runtime-main.13477dde.js.map",
     "static/js/2.1cba198a.chunk.js": "/3js-galaxy-generator/static/js/2.1cba198a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.13477dde.js",
     "static/js/2.1cba198a.chunk.js",
     "static/css/main.9c650110.chunk.css",
-    "static/js/main.3fab5df8.chunk.js"
+    "static/js/main.df23b1e9.chunk.js"
   ]
 }
