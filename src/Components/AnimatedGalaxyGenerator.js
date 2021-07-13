@@ -8,7 +8,7 @@ const GalaxyGenerator = () => {
 
     const scene = new THREE.Scene();
 
-    const gui = new dat.GUI({ closed: true });
+    const gui = new dat.GUI();
 
     const size = {
         width: window.innerWidth,
